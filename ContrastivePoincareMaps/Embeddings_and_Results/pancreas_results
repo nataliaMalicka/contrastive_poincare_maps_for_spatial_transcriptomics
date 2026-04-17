@@ -1,0 +1,23 @@
+calculating D_low
+Qlocal = 0.55, Qglobal = 0.90, Kmax = 787
+Worst case Distortion = 31.14, map score =  0.07
+(0.5469867079240404, 0.8951000394031929, 787, array([ 1.37180491, -0.9136848 ,  1.39474721, ...,  1.43513921,
+        1.08579979, -0.96838045]), 0.06989544092930221)
+Qlocal = 0.54, Qglobal = 0.89, Kmax = 767
+Worst case Distortion = 35.70, map score =  0.07
+(0.5383532392786714, 0.8880143578197907, 767, array([ 0.69446914, -0.68457572,  0.62955642, ...,  0.99758906,
+        0.48710212, -0.82184187]), 0.07024117607585116)
+Qlocal = 0.54, Qglobal = 0.89, Kmax = 767
+Worst case Distortion = 35.70, map score =  0.07
+Distortion
+Worst-case: 35.6961
+Average:    0.7012
+Median:     0.6427
+95th pctl:  1.6048
+99th pctl:  2.8332
+Top 5 most distorted pairs
+  Cell 417 (Ngn3 high EP) <-> Cell 1447 (Ngn3 low EP): distortion = 35.6961
+  Cell 1139 (Ngn3 high EP) <-> Cell 1447 (Ngn3 low EP): distortion = 32.1698
+  Cell 1859 (Ngn3 low EP) <-> Cell 2344 (Ngn3 low EP): distortion = 31.7821
+  Cell 1379 (Ngn3 low EP) <-> Cell 1698 (Ngn3 high EP): distortion = 31.6169
+  Cell 167 (Ngn3 high EP) <-> Cell 1447 (Ngn3 low EP): distortion = 31.5221

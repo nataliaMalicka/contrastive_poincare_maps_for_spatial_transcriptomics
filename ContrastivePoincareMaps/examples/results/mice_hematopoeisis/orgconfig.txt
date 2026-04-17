@@ -1,0 +1,16 @@
+{
+  "corr_rate": 0.2,
+  "emb_dim": 64,
+  "n_enc_layers": 2,
+  "n_hyp_layers": 2,
+  "lr_proj": 0.0005,
+  "lr_hyp": 1e-05,
+  "n_epochs": 1000,
+  "early_stop": 0.001,
+  "batch_size": 128,
+  "n_comp_PCA": null,
+  "data_dir": "Data/",
+  "fname": "Paul",
+  "root": "root",
+  "res_dir": "Results/"
+}

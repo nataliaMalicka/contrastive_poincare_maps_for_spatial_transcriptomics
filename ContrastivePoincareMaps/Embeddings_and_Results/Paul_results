@@ -1,0 +1,23 @@
+calculating D_low
+Qlocal = 0.42, Qglobal = 0.83, Kmax = 992
+Worst case Distortion = 40.79, map score =  0.03
+(0.4196505240332973, 0.826169473933649, 992, array([ 3.07513548, -0.72781187,  3.58203489, ...,  3.08470985,
+       -0.67423913,  2.35086171]), 0.028947537838919356)
+Qlocal = 0.41, Qglobal = 0.83, Kmax = 1033
+Worst case Distortion = 43.92, map score =  0.03
+(0.4139887909125362, 0.8302681966248564, 1033, array([ 1.58217558, -0.46990528,  1.59451782, ...,  1.22604696,
+       -0.44609679,  2.14178773]), 0.028178761751116273)
+Qlocal = 0.41, Qglobal = 0.83, Kmax = 1033
+Worst case Distortion = 43.92, map score =  0.03
+Distortion
+Worst-case: 43.9171
+Average:    1.0793
+Median:     0.9109
+95th pctl:  2.5452
+99th pctl:  3.9462
+Top 5 most distorted pairs
+  Cell 872 (14Mo) <-> Cell 2024 (5Ery): distortion = 43.9171
+  Cell 1216 (15Mo) <-> Cell 1891 (6Ery): distortion = 29.8525
+  Cell 87 (6Ery) <-> Cell 1127 (14Mo): distortion = 28.2333
+  Cell 1294 (14Mo) <-> Cell 1395 (2Ery): distortion = 24.7515
+  Cell 1127 (14Mo) <-> Cell 1395 (2Ery): distortion = 24.5309

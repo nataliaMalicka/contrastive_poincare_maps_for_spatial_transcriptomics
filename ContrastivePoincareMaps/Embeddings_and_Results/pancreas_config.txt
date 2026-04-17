@@ -1,0 +1,17 @@
+{
+  "corr_rate": 0.2,
+  "emb_dim": 128,
+  "n_enc_layers": 2,
+  "n_hyp_layers": 1,
+  "lr_proj": 0.0005,
+  "lr_hyp": 1e-05,
+  "n_epochs": 1000,
+  "early_stop": 0.001,
+  "batch_size": 128,
+  "n_comp_PCA": null,
+  "normalise": false,
+  "data_dir": "Embeddings",
+  "fname": "pancreas",
+  "root": "Ductal",
+  "res_dir": "Results/pancreas/"
+}
