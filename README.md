@@ -22,4 +22,15 @@ Nithya Bhasker, Hyelim Chung, Léa Boucherie, Victor Kim, Sebastian Speidel, & M
 
 bioRxiv (2025) — [https://doi.org/10.1101/2025.08.22.671789](https://doi.org/10.1101/2025.08.22.671789)
 
+## My Contributions
+
+Files and folders authored or substantially modified by me:
+
+- **`Analysis/Data_Process/`** — preprocessing scripts for the chicken cardiogenesis and mouse pancreatic endocrinogenesis datasets
+- **`Embeddings_and_Results/`** — trained embeddings, results, and custom configuration file for pancreas
+- **Raw result outputs** — any file or folder with a name beginning with `Results` contains raw training outputs (loss curves, model checkpoints, and embedding CSVs) from my runs
+- **`ContrastivePoincareMaps/helpers/evaluate.py`** — quality metric evaluation driver script, including extraction of the top distorted cell pairs
+- **`ContrastivePoincareMaps/model/poincare_loss.py`** — addition of the `WeightedKNNLoss` class, a non-contrastive alternative to the InfoNCE objective used in the ablation study
+- **Modifications throughout other files** to support the weighted kNN loss pathway 
+
 ```bibtex
